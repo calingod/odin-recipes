@@ -6,16 +6,25 @@ body{
 #receta2,
 #receta3{
     color: brown;
+    font-size: 45px;
 }
 
 .Encabezados1,
 .Encabezados2,
 .Encabezados3{
     color: red;
+    font-size: 30px;
 }
 
 #principal{
     color: rgb(221, 145, 5);
+    text-align: center;
+    font-size: 50px;
+}
+
+.links{
+    font-size: 25px;
+    font-weight: bold;
 }
 
 #chaufa-img,
@@ -25,3 +34,12 @@ body{
     width: 200px;
 }
 
+section{
+    font-weight: 550;
+    font-size: 22px;
+}
+
+#logo-img{
+    height: auto;
+    width: 300px; 
+}
