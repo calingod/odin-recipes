@@ -1,0 +1,27 @@
+body{
+    background-color: beige;
+}
+
+#receta1,
+#receta2,
+#receta3{
+    color: brown;
+}
+
+.Encabezados1,
+.Encabezados2,
+.Encabezados3{
+    color: red;
+}
+
+#principal{
+    color: rgb(221, 145, 5);
+}
+
+#chaufa-img,
+#lasaña-img,
+#ceviche-img{
+    height: auto;
+    width: 200px;
+}
+
