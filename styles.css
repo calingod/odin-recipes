@@ -50,10 +50,10 @@ section{
 }
 
 #recetas-titulo{
-    width: 100%;
     text-align: center;
     font-size: 35px;
     color: rgb(221,145,5);
+    margin: 0px;
 }
 
 #lasaña-text{
@@ -64,4 +64,8 @@ section{
     display: flex;
     justify-content: center;
     margin: 10px;
+}
+
+*{
+    outline: 2px solid red;
 }
